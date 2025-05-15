@@ -4,7 +4,7 @@ This project presents a **comprehensive health data analysis** derived from a da
 
 ![image](https://github.com/user-attachments/assets/592387f6-3253-4345-8e47-04436ac9588e)
 ---
-## 🚀 Tools Used
+## Tools Used
 
 - **Power BI** for data visualization  
 - **Microsoft Excel / CSV** for data processing 
@@ -12,7 +12,7 @@ This project presents a **comprehensive health data analysis** derived from a da
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 - **Total Patients Analyzed:** `10K`
 - **Average Height:** `1.69 meters`
@@ -21,7 +21,7 @@ This project presents a **comprehensive health data analysis** derived from a da
 
 ---
 
-## 🔍 BMI Distribution
+##  BMI Distribution
 
 - **Overweight:** 5.4K patients  
 - **Normal Weight:** 4.3K patients  
@@ -32,7 +32,7 @@ Majority of patients fall into the **overweight** and **normal weight** categori
 
 ---
 
-## 👥 Gender-Based BMI Analysis
+## Gender-Based BMI Analysis
 
 - **Male Average BMI:** 27.31  
 - **Female Average BMI:** 23.24  
@@ -41,7 +41,7 @@ Males show a higher average BMI, suggesting gender-specific health strategies mi
 
 ---
 
-## 📈 Age Distribution
+## Age Distribution
 
 - **Not Indicated:** 3K patients  
 - **19–30:** 2.4K patients  
@@ -52,7 +52,7 @@ Efforts can be made to gather more precise age data to improve demographic targe
 
 ---
 
-## ⚖️ Average Weight by BMI Category
+## Average Weight by BMI Category
 
 - **Obese:** 94 kg  
 - **Overweight:** 82 kg  
@@ -63,7 +63,7 @@ Weight increases significantly across BMI categories, validating the consistency
 
 ---
 
-## 📂 Filters Included
+##  Filters Included
 
 - Gender  
 - BMI Category  
@@ -73,7 +73,7 @@ These filters allow dynamic exploration of data trends across different subgroup
 
 ---
 
-## 📁 Usage
+##  Usage
 
 This project can be used as a baseline for:
 
